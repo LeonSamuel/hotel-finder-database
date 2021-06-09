@@ -7,15 +7,15 @@
 
 # For Local Devlelopment
 
-host            = 'localhost'
-user            = 'root'
-passwd          = 'root'
-db              = 'bsg'
+#host            = 'localhost'
+#user            = 'root'
+#passwd          = 'root'
+#db              = 'bsg'
 
 
 # For OSU Flip Servers
 
-# host = 'classmysql.engr.oregonstate.edu'      # MUST BE THIS
-# user = 'cs290_samuelle'                      # don't forget the CS_340 prefix
-# passwd = '4481'                             # should only be 4 digits if default
-# db = 'cs290_samuelle'             
+host            = 'classmysql.engr.oregonstate.edu'  # MUST BE THIS
+user            = 'cs340_samuelle'                   # don't forget the CS_340 prefix
+passwd          = '4459'                             # should only be 4 digits if default
+db              = 'cs340_samuelle'  
