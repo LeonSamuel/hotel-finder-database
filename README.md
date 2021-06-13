@@ -1,4 +1,4 @@
-# hotel-finder-database
+# Hotel Finder Database
 
 This Hotel Database was created using Python/Flask, MYSQL, HTML, and CSS.
 
