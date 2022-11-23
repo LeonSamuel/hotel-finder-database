@@ -4,7 +4,7 @@ This Hotel Database was created using Python/Flask, MYSQL, HTML, and CSS.
 
 This is a fully functional CRUD application backed by a relational database. The application is similar to that of Kayak where users can find hotel rooms that fit their preferences while allowing employees to manage database data and database relationships. 
 
-Users are able to do things such as add customers, edit room information, delete distributers, and filter any displayed results.
+Users are able to do things such as add customers, edit room information, delete distributors, and filter any displayed results.
 
 <br>
 
